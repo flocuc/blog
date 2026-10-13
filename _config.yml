@@ -1,0 +1,9 @@
+title: Florian Cucurella
+description: Reading notes on programming, research, and the wider world.
+url: https://flocuc.github.io
+baseurl: /blog
+timezone: UTC
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+future: true
+exclude: [README.md, Gemfile, Gemfile.lock]

@@ -1,0 +1,6 @@
+---
+layout: default
+title: Reading notes
+---
+<p class="intro">Notes from what I’m reading: programming languages, useful tools, research, and the occasional detour.</p>
+<div class="entries">{% for post in site.posts %}<section class="entry"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%-d %B %Y · %H:%M:%S UTC' }}</time><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2><p>{{ post.content | strip_html | truncatewords: 32 }}</p><a class="read" href="{{ post.url | relative_url }}">Read notes →</a></section>{% endfor %}</div>
