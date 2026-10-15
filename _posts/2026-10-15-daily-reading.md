@@ -1,0 +1,51 @@
+---
+layout: default
+title: "Daily reading — 2026-10-15"
+date: 2026-10-15 19:44:58 +0530
+---
+
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) — J. J. Maxwell recounts the value of persistent scheduling, second opinions and keeping appointment records during his treatment.
+- [AI agents and security basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) — Cynthia Brumfield reports that security specialists attribute recent agent intrusions to weak containment and monitoring.
+- [Amazon’s prices beyond Amazon](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) — Amanda Shendruk explains the FTC’s argument that seller fees and penalties for lower prices elsewhere raise prices across retailers; Amazon denies wrongdoing.
+- [Iosevka](https://typeof.net/Iosevka/) — This narrow coding font offers terminal variants and extensive glyph and ligature customization.
+- [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/) — Scott Helme distinguishes synced passkeys from hardware-key attestation and explains their protection against phishing.
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) — A shared background service connects its interfaces, with hot-reloaded plugins and breaking changes to plugins and the server API.
+- [ICE’s proposed ERO ONE program](https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/) — Whitney Curry Wimbish reports on plans for 142 intelligence contractors; privacy experts warn about the breadth of relationship analysis.
+- [Google’s phone-number verification](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/) — Aamir Siddiqui reports that Android’s default verification can attach a number to every signed-in Google account.
+- [Tiny Little Office](https://tinylittleoffice.com/) — A small browser office suite brings together writing, spreadsheets, presentations and drawing tools.
+- [Americans’ social activity](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) — Data for Progress finds broad declines against a 1995 survey, while warning that different survey methods make the comparison suggestive rather than precise.
+- [Scion and Mononoke](https://sunshowers.io/posts/anthropic-mononoke/) — Rain argues that Scion’s derived-data design owes more to Mononoke than Anthropic’s acknowledgment conveys.
+- [Fire at a Bulgarian Starlink site](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/) — dpa reports a confirmed fire and an investigation into suspected sabotage, following an earlier attack in Poland.
+- [AI data-center debt](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/) — Janet Harrison describes banks seeking to transfer AI infrastructure credit exposure as concentration limits tighten.
+- [Jev 1.14.0](https://typesafe.ai/blog/jev-1-14) — TypeSafe separates experimental images, bounding boxes and longer context behind explicit flags, warning that these features are not ready for its production reliability bar.
+- [Yandex outage and malicious bots](https://blog.cloudflare.com/yandex-outage/) — Cloudflare distinguishes lost search crawling from malicious automation that moved providers; its data does not establish who operated that traffic.
+- [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) — Nicholas Husin and Damien Neil explain Go 1.27’s bounded background draining of unread response bodies to reuse connections.
+- [Swiss platform regulation](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ) — The Federal Council asks for stronger child protection measures in its draft platform law and a dispatch by the end of 2027.
+- [pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) — Timescale’s alpha extension uses hierarchical routing and quantization for approximate nearest-neighbor search; its performance comparisons are the project’s claims.
+- [LFM2.5-24B-A2B](https://www.liquid.ai/blog/lfm2-5-24b-a2b) — Liquid AI releases an open-weight model with 24 billion total and two billion active parameters, reporting strong local inference speeds and mixed benchmark advantages.
+- [Financing rare-earth resilience](https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it) — Kirsten Asdal, Tom Koch and Tao Tan propose financing that rewards investors for capacity and supply resilience when China restricts exports.
+- [Military election operations](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election) — Ken Klippenstein reports on Task Force Raider’s cyber and influence mission, citing documents and officers concerned about its reach into public debate.
+- [Amsterdam server seizure](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960) — Marloes de Koning reports that Dutch police seized an Autistici/Inventati server under a US legal-assistance request and will send a copy of its contents.
+- [Petal](https://petal.live/) — The former CoScreen team offers open-source window sharing with persistent rooms and self-hosting; its repository describes remote control and Windows support as early.
+- [Starlink limits and Ukrainian drones](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex) — Aleksander Olech and Mariusz Marszałkowski describe reported speed limits affecting drone communication, while stressing that a political motive remains unproven.
+- [The emperor pelican](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/) — Aman Rusia uses similar bicycle-riding pelican images to argue that model output lacks visual diversity.
+- [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/) — Geoff Huston argues that repair ships, permits and route diversity are as important as laying more cable, with funding and coordination lagging.
+- [TV4’s missing edited footage](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage) — TV4 says a failed backup system forced The Challenge to be edited again, denying reports that an independent AI agent deleted the material.
+
+- [A Wi-Fi corruption hunt](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/): The author traces damaged downloads to DMA cache handling in a Qualcomm driver; disabling offload stopped corruption in an overnight test at roughly an 8% speed cost.
+- [Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/): Mozilla pairs Firefox with a management console organizations can host themselves, including controls for browser policy, data movement and AI use.
+- [A Canadian open-source operating system](https://theconversation.com/canada-could-save-millions-by-developing-its-own-operating-system-instead-of-relying-on-microsoft-windows-294027): Joshua M. Pearce proposes a Debian-based national system and estimates $700 million to $1.13 billion in gross savings over ten years.
+- [Nemotron 3.5 Bolt and local AI](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/): NVIDIA announces a 74-billion-parameter model with nine billion active parameters and a claimed 24GB footprint using two-bit quantization, alongside expanded PAIR support for local inference.
+- [AI accusations and literary prizes](https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story): Simbarashe Kundizeza denies using AI for The Blue Fighter; the Caine prize is investigating, while its chair challenges treating detector output as a final verdict.
+- [Trust in literary authorship](https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/): James Folta argues that uncertainty about AI authorship erodes trust and can disproportionately harm marginalized writers.
+- [Sally Rooney's UK books](https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support): The Guardian reports that Faber will stop supplying Rooney's work in the UK because it cannot pass on earnings given her declared support for Palestine Action; existing stock can still be sold.
+- [Documentation written for machines](https://www.reddit.com/r/ExperiencedDevs/comments/1x5u8bn/increasingly_unreadable_technical_specs_and/): A developer describes an LLM-driven documentation loop that leaves colleagues relying on another model to interpret commands they no longer have time to check.
+- [Compression and concatenation on the web](https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html) — Phil Eaton demonstrates how concatenated gzip members can lose content in browsers, and compares compatible joining methods for gzip, Brotli and zstd.
+- [Software engineering with LLMs in 2025: reality check](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025) — Gergely Orosz’s interviews show uneven gains from AI coding tools and argue that review, testing and deployment must keep pace with code generation.
+- [What each Michigan Senate candidate has to say about the Red Wings](https://octopusthrower.com/what-each-michigan-senate-candidate-has-to-say-about-the-red-wings-01m4v46vkd2f) — Jake Rivard publishes the candidates’ contrasting statements: Abdul El-Sayed criticizes ownership and prices, while Mike Rogers stresses the team’s history and appeal.
+
+## Conversations on X
+
+- [Kristopher Micinski](https://x.com/krismicinski/status/2110708718820315162) argues that LLMs have largely displaced NLP work; [Jules Jacobs](https://x.com/JulesJacobs5/status/2110721526534136073) distinguishes replacing research tools from doing research itself, and says mathematics has partly reached the latter stage.
+- [Jules Jacobs](https://x.com/JulesJacobs5/status/2110727017876594715) proposes an OS-wide Codex shortcut that carries screen context and returns text to the cursor.
+
