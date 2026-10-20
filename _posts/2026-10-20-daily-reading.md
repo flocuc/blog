@@ -1,0 +1,45 @@
+---
+layout: default
+title: "Daily reading — 2026-10-20"
+date: 2026-10-20 14:13:52 +0530
+---
+
+- [WJCL reports](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) that a Savannah officer shared her Flock credentials with her ICE-agent husband, undermining the system’s user audit trail; investigators found a policy violation rather than a violation of Georgia’s plate-reader law.
+- [Mistral introduces Timestral](https://mistral.ai/news/timestral/), a family of CPU-capable forecasting models that predicts uncertainty and incorporates known future inputs such as production schedules alongside related time series.
+- [Thomas Frohwein’s Wine port proposal](https://marc.info/?l=openbsd-ports&m=179236125692175) reports successful tests of many 64-bit Windows applications on OpenBSD, with 32-bit support still absent.
+- [Paul Battley](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository) explains why he archived his Ruby gems, describing his loss of enthusiasm as the community turns toward AI-generated code.
+- [MiniMax’s M3.1 Flash release](https://www.minimax.io/blog/minimax-m31f) claims faster inference and lower agent-task costs, with weights promised for a later release.
+- [An Ask HN submission](https://news.ycombinator.com/item?id=50151036) raises the tension between shipping AI-written code quickly and understanding its implementation, quoting an engineer’s discomfort with opaque systems.
+- [Dan Saltman](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) reports hidden WhatsApp support instructions that discouraged regulator references; WhatsApp says chatbot instructions appeared on public pages through a bug and have been removed.
+- [Brandon Keim](https://spectrum.ieee.org/alternatives-to-animal-testing) examines organs-on-chips and other nonanimal methods, arguing that validation, training and institutional habits remain barriers alongside technical development.
+- [CERN and Mistral](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/) signed a statement of intent to build a physics foundation model trained on simulated collisions for reconstruction, identification and anomaly detection.
+- [Mac.apk](https://github.com/kksimp/Mac.apk) reimplements Android’s application environment on Apple Silicon macOS; it remains alpha software, and loaded APKs run with the user’s native Mac permissions.
+- [Yuliya Talmazan reports](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310) Ukraine’s claim that a heavy-lift drone evacuated a wounded soldier where mines and enemy drones prevented a ground rescue.
+- [Let’s Encrypt](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166) plans two additional remote validation perspectives, using seven total requests to improve protection against routing hijacks.
+- [OpenBSD 8.0](https://www.openbsd.org/80.html) adds arm64 hibernation, expanded amd64 kernel address space, graphics drivers from Linux 6.18 and multiprocessor guests with up to 64 virtual CPUs.
+- [Inception’s Mercury 3 announcement](https://www.inceptionlabs.ai/blog/introducing-mercury-3) claims diffusion-based text generation above 1,000 tokens per second and a million-token context window, targeting applications where delays compound across agent steps.
+- [Josephine Pfeiffer](https://josie.lol/blog/linux-rtx-spark) documents an Arch Linux ARM setup on an RTX Spark laptop, including shared CPU/GPU memory and small local-model tests; comparisons use differing laptop and software configurations.
+- [Peter Eisentraut](https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves) examines PostgreSQL 19’s late feature removals, pointing to architectural defects, faster AI-assisted discovery of edge cases and limited reviewer time.
+- [Marcia Brown and Steve Volk](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411) examine allegations that egg producers coordinated surplus bids to influence market price quotes, alongside the supply shock from bird flu.
+- [BoredHackerBlog](https://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html) reports honeypot observations of Plex vulnerabilities being exploited to install a cryptominer and proxy software.
+- [Cretezy](https://cretezy.com/2026/ad-free-android-tv) describes replacing an Android TV launcher and apps to remove home-screen advertising and remap the remote.
+- [Reuters reports](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/) that September battery-electric registrations rose 70.3% across 17 key European markets, reaching 32.6% of registrations in that sample.
+- [João Tomé at IPinfo](https://ipinfo.io/blog/france-fridges-hack) reports months of exposed refrigeration dashboards before French supermarket attacks; its scans identify vulnerable software but do not establish how attackers entered.
+- [GitHub’s incident report](https://www.githubstatus.com/incidents/8tzbpcnl75jp) records delays to Actions, Pages and webhooks on October 19, resolved at 16:56 UTC.
+- [Erik Markus Kannike](https://100toolkit.com/blog/deslop-model/) describes fine-tuning Qwen3-4B to reduce stock AI phrasing, finding that a lower style score alone could damage task fit and factual reliability.
+- [Harness Engineering 101](https://github.com/IsuruMaduranga/harness-engineering-101) introduces an agent loop and the context, tool, caching and guardrail mechanisms built around it through a small Python implementation.
+- [Prasanna Vijayanathan and Renzo Sanchez-Silva](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf) describe Netflix’s ontology and knowledge graph for joining telemetry, deployments and incident reasoning around validated application identities.
+- A reader remembers exploring Barcelona with his father while they read *The Shadow of the Wind* in different translations, and finds the book inseparable from that memory. [r/books](https://www.reddit.com/r/books/comments/1x9rdo1/shadow_of_the_wind_by_carlos_ruiz_zaf%C3%B3n/)
+- Matyáš Racek describes Rust’s compiler progress as the payoff from years of architectural work, from the next trait solver and Polonius to faster builds and better performance triage. [Yoyo Code](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
+- Michael Larabel reports that Linux 7.4 is removing ARM64 big-endian kernel support after it was marked broken and left without active maintenance or testing. [Phoronix](https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE)
+- Koleman Nix argues that software design develops through implementation, where ideas meet the constraints of code and consequential decisions become concrete. [Essay](http://kolemannix.com/blog/software-is-art)
+- [Isaac’s Condition (TU)](https://arxiv.org/abs/2610.21899): Ralf Stephan presents two counterexample arguments and reports Lean 4 verification; the second argument treats two cited Fourier-decay theorems as hypotheses.
+- [Pixel](https://pixelgui.com/): The project provides a TypeScript React API for graphical interfaces embedded in terminal applications, including a Chromium WebView; native Windows support remains work in progress.
+
+- [Rural-jobs records in Beed](https://scroll.in/article/1096483/why-modi-governments-rural-jobs-scheme-is-a-sham-in-drought-hit-maharashtra-district): Tabassum Barnagarwala reports empty worksites behind digital attendance records and identity photos reused as live attendance images in Maharashtra’s employment scheme.
+
+## Conversations on X
+
+- [Jack](https://x.com/tracewoodgrains/status/2112254143855505792) disputes Freddie deBoer’s claim that everyday life has barely changed since 2021, citing widespread AI use among his technical and academic contacts. [David MacIver](https://x.com/DRMacIver/status/2112437222784081933) draws a distinction: AI has changed his work substantially, but his life outside work less than five years of smartphones did; he [qualifies](https://x.com/DRMacIver/status/2112437515529674939) the comparison’s starting date.
+- [Clara](https://x.com/SlopHq/status/2112344057498530266) invokes the unpopular winter mornings of America’s 1974 permanent daylight-saving experiment. [Manish](https://x.com/ManishEarth/status/2112432685708939560) puts the emphasis on early school start times and [car-based commuting](https://x.com/ManishEarth/status/2112432688171008311), while doubting permanent daylight saving would work well without changing those constraints.
+- [Jamesetta Williams](https://x.com/jamesetta_w/status/2112351458654048459) criticises airport rail access in US cities. [Manish](https://x.com/ManishEarth/status/2112428278241956258) disputes comparisons that disqualify an airport because it uses a people mover, [distinguishing](https://x.com/ManishEarth/status/2112428507381064009) travel to the airport from travel between terminals.
