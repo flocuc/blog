@@ -65,6 +65,8 @@ permalink: /2026/10/31/daily-reading/
 
 - [Nick Romeo’s report on job guarantees](https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment) examines public employment proposals and small pilots as responses to unemployment, including advocates’ arguments about benefits beyond income.
 
+- [Claude Code and game recreations](https://x.com/chasmmmmmmmmmmm/status/2116062991686721968): Chasm reports a new server-supplied instruction permitting original games while prohibiting recreations of specific existing games, including renamed copies.
+
 ## Conversations on X
 
 - [Talia Ringer](https://x.com/TaliaRinger/status/2116363924077486458) welcomes the prospect that a mathematically polynomial but impractical algorithm could force a clearer account of what computational ease means.
