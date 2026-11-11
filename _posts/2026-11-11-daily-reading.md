@@ -44,6 +44,8 @@ permalink: /2026/11/11/daily-reading/
 - [Dwarkesh Patel and Jerry Han](https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data) report larger compute-efficiency gains from data than model recipes in small-scale pretraining experiments; they stress that scaling improvements and frontier systems lie beyond this comparison.
 - [CMU’s Software Engineering With AI certificate](https://www.cmu.edu/online/software-engineering-ai) combines production ML and AI development tools; November 11 is the priority deadline for partial fellowship consideration.
 
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/): Pushmeet Kohli and Swarat Chaudhuri report machine-checked proofs of specified security properties in Signal’s compiled cryptographic code, combining human-reviewed specifications with AI-generated Lean proofs.
+
 ## Conversations on X
 
 - [Joomy](https://x.com/joomy/status/2120358865640329306) distinguishes Crane’s faster, more readable extracted code from a verified extraction pipeline: extraction remains trusted. His [CertiRocq observation](https://x.com/joomy/status/2120358339653533848) puts practical performance beside proof guarantees.
